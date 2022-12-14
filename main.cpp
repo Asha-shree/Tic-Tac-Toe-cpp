@@ -1,4 +1,5 @@
-
+//AUTHOR: PITCHIKA ASHA SHREE
+// SELF PROJECT: Tic Tac Toe simulation 
 #include <bits/stdc++.h>
 using namespace std;
 const int N=3;
